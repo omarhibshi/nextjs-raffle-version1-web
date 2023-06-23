@@ -16,5 +16,9 @@
     "react-dom": "18.2.0",
     "react-moralis": "^1.4.2",
     "web3uikit": "^1.0.4"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:omarhibshi/nextjs-raffle-version1-web.git",
+  "author": "omarhibshi~ <omarhibshi@hotmail.com>",
+  "license": "MIT"
 }
